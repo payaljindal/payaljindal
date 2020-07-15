@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**payaljindal/payaljindal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋,
+### I'm Payal Jindal, a pre-final year CS undergrad.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on web development projects.
+- 🌱 I’m currently learning data structures.
+- 👯 I’m looking to collaborate on any web developement projects.
+- 💬 Happy to help you if I could.
+- 📫 How to reach me: payaljindal050@gmail.com
+- 😄 Pronouns: She/her
+
+
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=payaljindal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
